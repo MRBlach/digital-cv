@@ -1,5 +1,5 @@
 <h1 align="center">
-DIgital-CV
+Digital-CV
 <br><br>
 <img  align="center" src="img/digital-cv.png">
 </h1>
